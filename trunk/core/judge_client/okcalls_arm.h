@@ -63,3 +63,6 @@ int LANG_CBV[CALL_ARRAY_SIZE]={0,3,4,5,33,45,85,122,192,197,248,0};
 int LANG_SB3V[CALL_ARRAY_SIZE]={0,11,0};
 //Cangjie
 int LANG_CJV[CALL_ARRAY_SIZE]={0,11,0};
+//it's
+int change1 =0;
+return change 1;
